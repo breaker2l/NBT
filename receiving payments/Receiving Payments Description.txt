@@ -1,0 +1,11 @@
+The orders,products,customer and order_item tables form the core of any database required for selling on the Web.
+To receive payments online,a website must first establish an account with a payment gateway.
+A payment gateway interfaces the customer order information provided by the selling website to the online payment processing system established by banks and credit card associations (for example, Visa or Mastercard tm).
+After obtaining success or failure of payment authorization from the payment processing system, the gateway redirects back to an appropriate order processing system, the gateway redirects back to an appropriate order processing program at the selling website to complete or cancel the sale.Thus,you may think of a payment gateway as the online equivalent of a checkout station.
+To receive payments online,a Web Store needs
+A business bank account
+A merchant account to receive credit card payments-A merchant account is a bank account established with a payment processor for the settlement of credit card transactions.
+Any merchant who wants to take credit card payments from a certain type of credit card must establish a merchant account dealing with that brand of credit card.
+Online merchants need a Card Not Present Merchant Account.
+A payment gateway account to process card transactions automatically online.
+
